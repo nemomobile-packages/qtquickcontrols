@@ -1,0 +1,3 @@
+[submodule "qtquickcontrols"]
+	path = qtquickcontrols
+	url = https://github.com/qtproject/qtquickcontrols
